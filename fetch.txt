@@ -1,1 +1,0 @@
-Created a fetch file to understand fetch operation
